@@ -1,4 +1,4 @@
-# fetch-into-chart.js
+# fetch-into-chart
 
 Get the data 'Global Average Temperatures 1880-2018'
 
